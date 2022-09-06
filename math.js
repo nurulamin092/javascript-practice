@@ -1,8 +1,29 @@
-let egePrice = 5;
+// cost of egg - calculator
 
-let egeQuantity = 12;
+/* let eggPrice = 5;
 
-let totalPrice = egePrice * egeQuantity;
+let eggQuantity = 12;
 
-console.log('Total Ege Price:', totalPrice);
+let totalPrice = eggPrice * eggQuantity;
 
+console.log('Total Egg Price:', totalPrice); */
+
+// area of circle calculator pi * r squared
+
+/* let radius = 7;
+
+const pi = 3.14159;
+
+const areaOfCircle = pi * (radius * radius);
+
+console.log(areaOfCircle);
+
+ */
+
+//usd to bdt calculator
+
+let usdToBdt = 83.5;
+let bdt = 5000;
+let usd = bdt / usdToBdt;
+
+console.log(usd);
