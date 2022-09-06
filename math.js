@@ -21,9 +21,17 @@ console.log(areaOfCircle);
  */
 
 //usd to bdt calculator
-
+/* 
 let usdToBdt = 83.5;
 let bdt = 5000;
 let usd = bdt / usdToBdt;
 
-console.log(usd);
+console.log(usd); */
+
+// remainder
+
+let n1 = 5;
+let n2 = 2;
+
+let r1 = n1 % n2;
+console.log(r1);
