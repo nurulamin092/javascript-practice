@@ -5,7 +5,7 @@ if (n > 0) {
 }
 else {
     // var result = `This number"  ${n}  "is negative`;
-    var result = "This number" + n + "is negative";
+    var result = "This number" + n + "is negative"; f
 }
 
 console.log(result);
